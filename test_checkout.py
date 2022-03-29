@@ -14,5 +14,5 @@ def test_placeOrder(SetUp):
 def test_makePayments(setUp):
     print("Do the payments")
 
-def test_order(setUp):
+def test_orderConfirmation(setUp):
     print("Order confirmed")
